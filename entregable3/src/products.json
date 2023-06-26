@@ -1,0 +1,137 @@
+[
+	{
+		"title": "Apple iPhone 14",
+		"description": "Built and designed by Apple",
+		"price": 315000,
+		"thumbnail": "image.png",
+		"code": 101,
+		"stock": 7,
+		"id": 1
+	},
+	{
+		"title": "Moto G72",
+		"description": "Made by Motorola",
+		"price": 83000,
+		"thumbnail": "none",
+		"code": 102,
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"title": "Beats Solo3 Headphones",
+		"description": "Wireless Headphones made by Beats by Dr. Dre",
+		"price": 238000,
+		"thumbnail": "none",
+		"code": 103,
+		"stock": 15,
+		"id": 3
+	},
+	{
+		"title": "Galaxy Buds In-Ear Headphones",
+		"description": "Wireless Headphones fabricated and distributed by Samsung",
+		"price": 78000,
+		"thumbnail": "none",
+		"code": 104,
+		"stock": 50,
+		"id": 4
+	},
+	{
+		"title": "Xiaomi Redmi Watch 2 Lite",
+		"description": "Smartwatch manufactured by Xiaomi",
+		"price": 28000,
+		"thumbnail": "none",
+		"code": 105,
+		"stock": 60,
+		"id": 5
+	},
+	{
+		"title": "Samsung Galaxy A33",
+		"description": "Smartphone fabricated and distributed by Samsung",
+		"price": 133000,
+		"thumbnail": "none",
+		"code": 106,
+		"stock": 30,
+		"id": 6
+	},
+	{
+		"title": "Lenovo Tablet M10 TB",
+		"description": "Mass-produced and delivered by Lenovo",
+		"price": 88000,
+		"thumbnail": "none",
+		"code": 107,
+		"stock": 25,
+		"id": 7
+	},
+	{
+		"title": "Sony Headphones WH-CH510",
+		"description": "Fabricated and shaped with Sony components and passion",
+		"price": 25000,
+		"thumbnail": "none",
+		"code": 108,
+		"stock": 45,
+		"id": 8
+	},
+	{
+		"title": "Dell Inspiron 15",
+		"description": "Netbook assembled by Dell Inc.",
+		"price": 150000,
+		"thumbnail": "none",
+		"code": 109,
+		"stock": 35,
+		"id": 9
+	},
+	{
+		"title": "Motorola Edge 30 Neo",
+		"description": "Smartphone made by Motorola",
+		"price": 160000,
+		"thumbnail": "none",
+		"code": 110,
+		"stock": 31,
+		"id": 10
+	},
+	{
+		"title": "Motorola G42",
+		"description": "Smartphone made by Motorola",
+		"price": 93000,
+		"thumbnail": "none",
+		"code": 111,
+		"stock": 46,
+		"id": 11
+	},
+	{
+		"title": "Samsung Galaxy Tab S6 Lite ",
+		"description": "Smartphone fabricated and distributed by Samsung",
+		"price": 194000,
+		"thumbnail": "none",
+		"code": 112,
+		"stock": 39,
+		"id": 12
+	},
+	{
+		"title": "TCL Smartphone 408",
+		"description": "Built and shaped by TCL",
+		"price": 53000,
+		"thumbnail": "none",
+		"code": 113,
+		"stock": 62,
+		"id": 13
+	},
+	{
+		"title": "ZTE Blade V40 Vita",
+		"description": "Provided by ZTE",
+		"price": 58500,
+		"thumbnail": "none",
+		"code": 114,
+		"stock": 28,
+		"id": 14
+	},
+	{
+		"title": "JBL Headphones Vibe 200 TWS",
+		"description": "In-Ear Headphones supplied by JBL",
+		"price": 18000,
+		"thumbnail": "none",
+		"code": 115,
+		"stock": 55,
+		"id": 15
+	}
+]
